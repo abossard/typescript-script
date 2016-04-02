@@ -1,4 +1,4 @@
-# FORKED from https://github.com/basarat/typescript-script, jsut to play around.
+# FORKED from https://github.com/basarat/typescript-script, just to play around.
 
 # typescript-script
 Script tag support for TypeScript
